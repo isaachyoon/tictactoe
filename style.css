@@ -6,7 +6,15 @@
 
 }
 
+#player {
+	margin-top: 10px;
+	font-size: large;
+	display: flex;
+	justify-content: center;
+}
+
 .tiles{
+
 	margin: 10;
 	padding: 10;
 	border-width: thin;
